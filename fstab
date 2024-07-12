@@ -1,0 +1,12 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/nvme0n1p7 LABEL=ARCH\134x20LINUX
+UUID=b69640bf-93e1-4130-a3c0-1c1a5242824e	/         	ext4      	rw,relatime	0 1
+
+# /dev/nvme0n1p6
+UUID=82CC-77C7      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+UUID=D0E68A1AE68A0148 /mnt/Windows ntfs-3g defaults 0 2
+UUID=82ACF207ACF1F60F /mnt/LeSidePeice ntfs-3g defaults 0 2
