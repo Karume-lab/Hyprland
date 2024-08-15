@@ -4,3 +4,4 @@ sudo cp ./hypr/monitors.conf ~/.config/hypr/monitors.conf
 sudo cp ./hypr/input.conf ~/.config/hypr/input.conf
 
 echo "source = ~/.config/hypr/input.conf" >> ~/.config/hypr/hyprland.conf
+paru -Sy --needed - < ./apps.txt
