@@ -15,4 +15,3 @@ obs-studio
 libreoffice-fresh
 remmina-git
 firefox-developer-edition
-
