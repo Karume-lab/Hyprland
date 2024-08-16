@@ -17,4 +17,5 @@ remmina-git
 firefox-developer-edition
 openssh
 speech-dispatcher
-
+update-grub
+os-prober
