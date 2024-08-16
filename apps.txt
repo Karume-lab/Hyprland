@@ -13,7 +13,7 @@ pnpm
 jdk-openjdk
 obs-studio
 libreoffice-fresh
-remmina-git
+remmina
 firefox-developer-edition
 openssh
 speech-dispatcher
