@@ -16,4 +16,5 @@ libreoffice-fresh
 remmina-git
 firefox-developer-edition
 openssh
+speech-dispatcher
 
