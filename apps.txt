@@ -3,7 +3,7 @@ spotify
 qbittorrent-git
 postman-bin
 microsoft-edge-stable-bin
-vlc-git
+vlc
 gnome-keyring
 visual-studio-code-bin
 nodejs
@@ -16,6 +16,7 @@ libreoffice-fresh
 remmina
 firefox-developer-edition
 openssh
+ventoy
 speech-dispatcher
 update-grub
 os-prober
