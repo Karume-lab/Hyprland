@@ -3,7 +3,6 @@ spotify
 qbittorrent-git
 postman-bin
 microsoft-edge-stable-bin
-vlc
 gnome-keyring
 visual-studio-code-bin
 nodejs
