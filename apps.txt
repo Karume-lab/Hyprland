@@ -20,3 +20,4 @@ ventoy
 speech-dispatcher
 update-grub
 os-prober
+docker-compose
